@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD echo 'Helllo'
+CMD echo 'Hello'
