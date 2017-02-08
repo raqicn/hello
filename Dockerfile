@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD echo 'Hello'
+CMD echo 'world'
